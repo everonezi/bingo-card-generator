@@ -1,3 +1,6 @@
+//Alunos: Eduardo Souza Veronezi e Gabriel Reis
+
+
 #include <stdio.h>
 #include <time.h>
 
